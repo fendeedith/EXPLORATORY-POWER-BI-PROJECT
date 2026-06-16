@@ -1,7 +1,7 @@
 # EXPLORATORY-POWER-BI-PROJECT
 
 ## Project Overview
-This project showcases my ability to use POWER BI to clean, transform, prepare, analyze and visualize data with the aim of making better and more informed business decisons
+This project showcases my ability to use POWER BI to clean, transform, prepare, analyze and visualize data with the aim of making better and more informed business decisons.
 
 ## Data Sources
 The data set was gotten from a youtube account called @AlexTheAnalyst. It is a survey conducted among U.S.-based professionals working in the field of data analytics. The survey collected responses on various work-related preferences, including preferred programming language, work/life balance, salary satisfaction and other factors influencing their professional experiences.
